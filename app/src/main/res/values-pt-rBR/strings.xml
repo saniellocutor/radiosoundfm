@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Radio Sound FM</string>
+    <string name="app_email">contato@radiosoundfm.com.br</string>
+
+    <!--admob banner and interstitial id-->
+    <string name="admob_publisher_id">pub-7630632790167516</string>
+    <string name="admob_app_id">ca-app-pub-7630632790167516~3973598242</string>
+    <string name="admob_banner_unit_id">ca-app-pub-7630632790167516/1847098208</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-7630632790167516/8304980759</string>
+    <string name="admob_native_ad_unit_id">ca-app-pub-7630632790167516/4365735741</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_home">Início</string>
+    <string name="drawer_social">Social</string>
+    <string name="drawer_rate">Votar</string>
+    <string name="drawer_more">Mais</string>
+    <string name="drawer_about">Sobre</string>
+    <string name="about_app_privacy_policy">Política de Privacidade</string>
+    <string name="drawer_sub_other">Outros</string>
+
+    <!-- media viewer and radio-->
+    <string name="volume_low">Aumente o seu volume!</string>
+    <string name="now_playing">Tocando agora</string>
+    <string name="notification_playing">Tocando agora</string>
+    <string name="toggle_fullscreen">Alternar para o modo tela cheia</string>
+    <string name="audio_notification">Reprodução de mídia em segundo plano</string>
+    <string name="error_retry">Falha ao conectar ao stream&#8230;</string>
+    <string name="error_retry_later">Tente novamente em alguns segundos&#8230;</string>
+    <string name="radio_playing_other">Já está tocando em outra estação. Pressione play novamente para reproduzir esta estação.</string>
+    <string name="empty_textview">Erro ao carregar dados</string>
+
+    <!--more streaminghost link-->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=saniellocutor</string>
+
+    <!--social network-->
+    <string name="social_tab1">Facebook</string>
+    <string name="social_tab2">Twitter</string>
+    <string name="facebook_url">https://mobile.facebook.com/radiosoundfm1</string>
+    <string name="twitter_url">https://twitter.com/radiosoundfmcom</string>
+
+    <!--privacy policy-->
+    <!--this privacy policy url will be used if admin panel mode is disabled-->
+    <string name="privacy_policy_url">https://radiosoundfm.com.br/privacy</string>
+
+    <!--share text-->
+    <string name="share">Compartilhar</string>
+    <string name="share_text">Eu estou ouvindo: Rádio Sound FM - baixar o aplicativo na PlayStore</string>
+
+    <!--streaminghost about information-->
+    <string name="about_app_name">Rádio Sound FM</string>
+    <string name="about_app_version">Versão de compilação</string>
+    <string name="about_app_email">Email</string>
+    <string name="about_app_copyright">Direito autoral</string>
+    <string name="about_app_rate">Avaliaçãos</string>
+    <string name="about_app_more">Mais</string>
+    <string name="sub_about_app_version">Version 9.0.1</string>
+    <string name="sub_about_app_copyright">Direitos autorais &#169; 12/12/2016 saniellocutor Developer \n Todos os direitos reservados</string>
+    <string name="sub_about_app_rate">Dê sua avaliação e feedback</string>
+    <string name="sub_about_app_more">Mais aplicativos do desenvolvedor</string>
+
+    <!--connection-->
+    <string name="dialog_connection_title">Servidores inacessíveis</string>
+    <string name="dialog_connection_description">Não podemos conectar-se às nossas APIs. \n\ nPor favor, verifique se você configurou suas chaves e parâmetros da API conforme documentado!</string>
+    <string name="dialog_internet_title">Sem internet</string>
+    <string name="dialog_internet_description">Parece que você não tem conexão com a Internet, este aplicativo requer Internet para carregar o conteúdo.</string>
+    <string name="no_network">Falha ao conectar a rede!</string>
+    <string name="ok">OK</string>
+
+    <!--exit dialog-->
+    <string name="message">O que você quer fazer?</string>
+    <string name="quit">Sair</string>
+    <string name="minimize">Minimiza</string>
+    <string name="cancel">Cancelar</string>
+
+    <!--sleeping timer-->
+    <string name="sleep_time">Tempo de sono</string>
+    <string name="min">Minutos</string>
+    <string name="set">Definir</string>
+    <string name="stop">Parar</string>
+
+    <!--others-->
+    <string name="drawer_open">Abra a gaveta de navegação</string>
+    <string name="drawer_close">Feche a gaveta de navegação</string>
+    <string name="loading_progress">Carregando&#8230;</string>
+    <string name="todo">TODO</string>
+
+</resources>

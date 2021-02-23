@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681909618922",
+    "project_id": "radiosoundfm-1a703",
+    "storage_bucket": "radiosoundfm-1a703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681909618922:android:5b0ac02c562257bc85ef93",
+        "android_client_info": {
+          "package_name": "br.com.streaminghost.radiosoundfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681909618922-esinvk8d5nam5scehcon6leeihvuq8t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh434LECo8LSfpC0GvmNqRHXra-Bn_8B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681909618922-esinvk8d5nam5scehcon6leeihvuq8t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
